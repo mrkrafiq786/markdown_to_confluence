@@ -46,3 +46,4 @@ Note:
 
 - `CONFLUENCE_PASSWORD` is yor API token, you can create one [here](https://id.atlassian.com/manage-profile/security/api-tokens).
 - `CONFLUENCE_USERNAME` is your email address.
+- Testing1
