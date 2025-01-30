@@ -6,5 +6,4 @@
 |---------|--------|
 |rafiq|Khan|
 
-
 ![Test photo](media/photo.jpeg)
