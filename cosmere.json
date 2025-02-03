@@ -2,7 +2,6 @@
   "baseUrl": "https://clevertap-workato.atlassian.net/wiki/rest/api",
   "cachePath": "build",
   "prefix": "This document is automatically generated. Please don't edit it directly!",
-  "prefix": "This is test",
   "pages": [
     {
       "pageId": "7372840",
@@ -32,6 +31,11 @@
       "pageId": "9437197",
       "file": "Test File/TestPage.md",
       "title": "Test File 2"
+    },
+    {
+      "pageId": "9699329",
+      "file": "Test File/Hello_World.md",
+      "title": "This is demo Page"
     }
   ]
 }
