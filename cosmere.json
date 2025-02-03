@@ -29,13 +29,8 @@
       "title": "Employee Saas Onboarding"
     },
     {
-      "pageId": "9437187",
-      "file": "Test File",
-      "title": "Test File"
-    },
-    {
       "pageId": "9437197",
-      "file": "Test File 2",
+      "file": "Test File/TestPage.md",
       "title": "Test File 2"
     }
   ]
