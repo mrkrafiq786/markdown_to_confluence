@@ -2,4 +2,6 @@
 
 ## Hello Welcome to CleverTap
 
-![Test Photo](/pages/media/test.jpeg)
+![Test Photo](media/test.jpeg)
+
+![cool photo](media/photo.jpeg)
