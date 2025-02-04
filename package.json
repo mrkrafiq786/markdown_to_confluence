@@ -6,10 +6,8 @@
   "private": true,
   "scripts": {
     "publish": "cosmere",
-    "lint": "markdownlint *.md ; markdownlint */*.md; markdownlint */*/*.md",
-    "lint:fix": "markdownlint --fix *.md --disable MD013"
-    "lint:fix": "markdownlint --fix */*.md --disable MD013"
-    "lint:fix": "markdownlint --fix */*/*.md --disable MD013"
+    "lint": "markdownlint **/**/*.md",
+    "lint:fix": "markdownlint --fix **/**/*.md && markdownlint --fix README.md --disable MD013"
   },
   "repository": {
     "type": "git",
